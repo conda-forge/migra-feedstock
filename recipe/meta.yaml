@@ -1,5 +1,5 @@
 {% set name = "migra" %}
-{% set version = "3.0.1663074851" %}
+{% set version = "3.0.1663481299" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/migra-{{ version }}.tar.gz
-  sha256: dcb7ea8c9a4bb1e713e73f2edc2ace59ca8407fd222d84cd38d21c9c3d8549ab
+  sha256: 0cf0c125d553008d9ff5402663a51703ccc474bb65b5a4f4727906dbf58e217f
 
 build:
   entry_points:
