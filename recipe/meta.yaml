@@ -23,7 +23,7 @@ requirements:
     - python >=3.6,<4.0
   run:
     - python >=3.6,<4.0
-    - schemainspect >=3.1.1658648837
+    - schemainspect >=3.1.1663480743
     - six
     - sqlbag
 
